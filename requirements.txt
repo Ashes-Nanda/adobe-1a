@@ -1,0 +1,8 @@
+# Core PDF processing library
+PyMuPDF>=1.23.0
+
+# JSON schema validation
+jsonschema>=4.0.0
+
+# System monitoring for performance tracking
+psutil>=5.8.0

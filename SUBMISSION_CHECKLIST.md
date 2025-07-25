@@ -23,7 +23,7 @@
 - [x] **process_pdfs.py** - Sample file removed
 - [x] **docker_test.py** - Development test removed
 - [x] **test\_\*.py** - All test files removed
-- [x] ****pycache**/** - Python cache removed
+- [x] \***\*pycache**/\*\* - Python cache removed
 - [x] **.pytest_cache/** - Test cache removed
 - [x] **.kiro/** - IDE files removed
 

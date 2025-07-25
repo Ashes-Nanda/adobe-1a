@@ -144,6 +144,7 @@ test_*.py
 tests/
 .pytest_cache/
 test_output/
+final_verification/
 
 # Sample and development data (not needed for submission)
 input/
@@ -157,6 +158,23 @@ process_pdfs.py
 docker_test.py
 test_basic_pipeline.py
 test_docker_integration.py
+
+# Development artifacts created during testing
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
 
 # Temporary files
 tmp/
